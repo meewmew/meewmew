@@ -13,7 +13,7 @@
 <p align="center">
 <a href="https://github.com/meewmew/discord_bot"><img src="assets/cartao-projeto-01.svg" alt="Projeto 01" width="48%"></a>
 &nbsp;
-<a href="LINK_DO_PROJETO_02"><img src="assets/cartao-projeto-02.svg" alt="Projeto 02" width="48%"></a>
+<a href="https://github.com/meewmew/semaforo_com_raspberry_pi/projects"><img src="assets/cartao-projeto-02.svg" alt="Projeto 02" width="48%"></a>
 </p>
 
 <br>
