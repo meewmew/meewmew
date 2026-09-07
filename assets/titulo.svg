@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="100%"
+     height="110"
+     viewBox="0 0 900 110">
+
+  <g fill="#d9a0b7" stroke="#d9a0b7" opacity="0">
+
+    <animate
+      attributeName="opacity"
+      from="0"
+      to="1"
+      dur="1.8s"
+      begin="0s"
+      fill="freeze"
+    />
+
+    <path d="M10 42H225 M675 42H890" stroke-width="1"/>
+
+    <text x="450" y="53"
+          text-anchor="middle"
+          font-family="Georgia, serif"
+          font-size="38"
+          stroke="none">
+      code, cats &amp; coffee
+    </text>
+
+    <text x="450" y="88"
+          text-anchor="middle"
+          font-family="sans-serif"
+          font-size="23"
+          stroke="none">
+      („&gt; ᴗ &lt;„)
+    </text>
+
+    <text x="250" y="50"
+          font-size="24"
+          stroke="none">
+      ✧
+    </text>
+
+    <text x="630" y="50"
+          font-size="24"
+          stroke="none">
+      ✧
+    </text>
+
+  </g>
+</svg>

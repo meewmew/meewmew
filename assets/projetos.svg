@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="60" viewBox="0 0 600 60">
+  <text x="5" y="40" fill="#d9a0b7"
+        font-family="Georgia, serif" font-size="28" font-style="italic">
+    projetos em destaque
+  </text>
+  <path d="M290 32H330" stroke="#d9a0b7" stroke-width="1"/>
+</svg>

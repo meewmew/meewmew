@@ -1,0 +1,213 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1000" height="190" viewBox="0 0 1000 190">
+
+  <!-- Sobre mim -->
+  <text x="8" y="65"
+        fill="#d9a0b7"
+        font-family="Georgia, serif"
+        font-size="21"
+        font-style="italic">sobre mim</text>
+
+  <path d="M125 59H155" stroke="#d9a0b7"/>
+
+  <g fill="#d9a0b7"
+     font-family="Arial, sans-serif"
+     font-size="12">
+    <text x="8" y="92">
+      <tspan x="8" dy="0">estudante de engenharia de software</tspan>
+      <tspan x="8" dy="18">(5º semestre) na UnDF</tspan>
+      <tspan x="8" dy="18">apaixonada por ui/ux &amp; design front-end 𑄝੭</tspan>
+      <tspan x="8" dy="28">busco o equilíbrio exato entre estética</tspan>
+      <tspan x="8" dy="18">e funcionalidade, sempre experimentando coisas novas</tspan>
+    </text>
+  </g>
+
+  <!-- Barra rosa até o final do texto -->
+  <path d="M320 38V178" stroke="#d9a0b7"/>
+
+  <!-- Modelos -->
+  <defs>
+    <rect id="cartao" width="122" height="48" rx="5"
+          fill="none" stroke="#30363d"/>
+
+    <linearGradient id="lovable-cor"
+                    x1="25%" y1="100%" x2="65%" y2="0%">
+      <stop offset="0%" stop-color="#7775ff"/>
+      <stop offset="32%" stop-color="#cf64ee"/>
+      <stop offset="58%" stop-color="#ff408e"/>
+      <stop offset="80%" stop-color="#ff6500"/>
+      <stop offset="100%" stop-color="#ff9200"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Python -->
+  <g transform="translate(345 54)">
+    <use href="#cartao"/>
+    <g transform="translate(23 0)">
+      <text x="14" y="25" text-anchor="middle"
+            dominant-baseline="central"
+            fill="#d9a0b7" font-family="monospace"
+            font-size="20" font-weight="bold">Py</text>
+      <text x="38" y="25" dominant-baseline="central"
+            fill="#d9a0b7" font-family="Arial, sans-serif"
+            font-size="12" textLength="38"
+            lengthAdjust="spacingAndGlyphs">Python</text>
+    </g>
+  </g>
+
+  <!-- PostgreSQL -->
+  <g transform="translate(475 54)">
+    <use href="#cartao"/>
+    <g transform="translate(9.5 0)">
+      <text x="14" y="25" text-anchor="middle"
+            dominant-baseline="central"
+            fill="#d9a0b7" font-family="monospace"
+            font-size="19" font-weight="bold">Pg</text>
+      <text x="38" y="25" dominant-baseline="central"
+            fill="#d9a0b7" font-family="Arial, sans-serif"
+            font-size="12" textLength="65"
+            lengthAdjust="spacingAndGlyphs">PostgreSQL</text>
+    </g>
+  </g>
+
+  <!-- C -->
+  <g transform="translate(605 54)">
+    <use href="#cartao"/>
+    <g transform="translate(37.5 0)">
+      <text x="14" y="25" text-anchor="middle"
+            dominant-baseline="central"
+            fill="#d9a0b7" font-family="Arial, sans-serif"
+            font-size="26" font-weight="bold">C</text>
+      <text x="38" y="25" dominant-baseline="central"
+            fill="#d9a0b7" font-family="Arial, sans-serif"
+            font-size="12" textLength="9"
+            lengthAdjust="spacingAndGlyphs">C</text>
+    </g>
+  </g>
+
+  <!-- Java -->
+  <g transform="translate(735 54)">
+    <use href="#cartao"/>
+    <g transform="translate(29 0)">
+      <svg x="0" y="8" width="28" height="32"
+           viewBox="11 6 30 38">
+        <g fill="#d9a0b7" stroke-linecap="round" stroke-width="1.5">
+          <path d="M21 22C14 17 29 15 24 8
+                   M27 22C22 18 32 16 29 12"
+                stroke="#d9a0b7"/>
+          <path d="M14 26H31L29 35H17Z
+                   M31 27C39 25 39 32 31 32
+                   M13 39Q24 42 35 38"
+                stroke="#d9a0b7"/>
+        </g>
+      </svg>
+      <text x="38" y="25" dominant-baseline="central"
+            fill="#d9a0b7" font-family="Arial, sans-serif"
+            font-size="12" textLength="26"
+            lengthAdjust="spacingAndGlyphs">Java</text>
+    </g>
+  </g>
+
+  <!-- CSS -->
+  <g transform="translate(865 54)">
+    <use href="#cartao"/>
+    <g transform="translate(29 0)">
+      <path d="M2 10H26L24 34L14 38L4 34Z" fill="#d9a0b7"/>
+      <text x="14" y="24" text-anchor="middle"
+            dominant-baseline="central"
+            fill="#FFFFFF" font-family="Arial, sans-serif"
+            font-size="13" font-weight="bold">#</text>
+      <text x="38" y="25" dominant-baseline="central"
+            fill="#d9a0b7" font-family="Arial, sans-serif"
+            font-size="12" textLength="26"
+            lengthAdjust="spacingAndGlyphs">CSS</text>
+    </g>
+  </g>
+
+  <!-- HTML -->
+  <g transform="translate(345 114)">
+    <use href="#cartao"/>
+    <g transform="translate(25.5 0)">
+      <path d="M2 10H26L24 34L14 38L4 34Z" fill="#d9a0b7"/>
+      <text x="14" y="24" text-anchor="middle"
+            dominant-baseline="central"
+            fill="#FFFFFF" font-family="Arial, sans-serif"
+            font-size="18" font-weight="bold">5</text>
+      <text x="38" y="25" dominant-baseline="central"
+            fill="#d9a0b7" font-family="Arial, sans-serif"
+            font-size="12" textLength="33"
+            lengthAdjust="spacingAndGlyphs">HTML</text>
+    </g>
+  </g>
+
+  <!-- Canva -->
+  <g transform="translate(475 114)">
+    <use href="#cartao"/>
+    <g transform="translate(24 0)">
+      <circle cx="14" cy="24" r="14" fill="#d9a0b7"/>
+      <text x="14" y="25" text-anchor="middle"
+            dominant-baseline="central"
+            fill="#FFFFFF" font-family="Georgia, serif"
+            font-size="23" font-style="italic">C</text>
+      <text x="38" y="25" dominant-baseline="central"
+            fill="#d9a0b7" font-family="Arial, sans-serif"
+            font-size="12" textLength="36"
+            lengthAdjust="spacingAndGlyphs">Canva</text>
+    </g>
+  </g>
+
+  <!-- Figma -->
+  <g transform="translate(605 114)">
+    <use href="#cartao"/>
+    <g transform="translate(25 0)">
+      <rect x="4" y="9" width="10" height="10" rx="5" fill="#d9a0b7"/>
+      <rect x="14" y="9" width="10" height="10" rx="5" fill="#d9a0b7"/>
+      <rect x="4" y="19" width="10" height="10" rx="5" fill="#d9a0b7"/>
+      <circle cx="19" cy="24" r="5" fill="#d9a0b7"/>
+      <rect x="4" y="29" width="10" height="10" rx="5" fill="#d9a0b7"/>
+      <text x="38" y="25" dominant-baseline="central"
+            fill="#d9a0b7" font-family="Arial, sans-serif"
+            font-size="12" textLength="34"
+            lengthAdjust="spacingAndGlyphs">Figma</text>
+    </g>
+  </g>
+
+  <!-- Lovable -->
+  <g transform="translate(735 114)">
+    <use href="#cartao"/>
+    <g transform="translate(20 0)">
+      <svg x="0" y="10" width="28" height="28"
+           viewBox="10 10 30 28">
+        <path d="M10 38V19
+                 A9 9 0 0 1 28 19
+                 V20H31
+                 A9 9 0 0 1 31 38Z"
+              fill="#d9a0b7"/>
+      </svg>
+      <text x="38" y="25" dominant-baseline="central"
+            fill="#d9a0b7" font-family="Arial, sans-serif"
+            font-size="12" textLength="44"
+            lengthAdjust="spacingAndGlyphs">Lovable</text>
+    </g>
+  </g>
+
+  <!-- Horizon -->
+  <g transform="translate(865 114)">
+    <use href="#cartao"/>
+    <g transform="translate(17.5 0)">
+      <text x="14" y="25" text-anchor="middle"
+            dominant-baseline="central"
+            fill="#d9a0b7" font-family="Arial, sans-serif"
+            font-size="27" font-weight="bold">H</text>
+      <g fill="#d9a0b7" font-family="Arial, sans-serif"
+         text-anchor="middle">
+        <text x="62.5" y="20" dominant-baseline="central"
+              font-size="12">Horizon</text>
+        <text x="62.5" y="33" dominant-baseline="central"
+              font-size="10" textLength="49"
+              lengthAdjust="spacingAndGlyphs">(Hostinger)</text>
+      </g>
+    </g>
+  </g>
+
+</svg>
