@@ -11,8 +11,7 @@
 <!-- Fundo das etiquetas -->
 <g fill="#282228" stroke="#48414b">
   <rect x="40" y="185" width="94" height="34" rx="7"/>
-  <rect x="150" y="185" width="86" height="34" rx="7"/>
-  <rect x="252" y="185" width="72" height="34" rx="7"/>
+
 </g>
 
 <!-- Nome das tecnologias -->
