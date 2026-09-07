@@ -11,7 +11,7 @@
 <img src="assets/projetos.svg" alt="Projetos em destaque" width="600">
 <p>
 <p align="center">
-<a href="LINK_DO_PROJETO_01"><img src="assets/cartao-projeto-01.svg" alt="Projeto 01" width="48%"></a>
+<a href="https://github.com/meewmew/discord_bot"><img src="assets/cartao-projeto-01.svg" alt="Projeto 01" width="48%"></a>
 &nbsp;
 <a href="LINK_DO_PROJETO_02"><img src="assets/cartao-projeto-02.svg" alt="Projeto 02" width="48%"></a>
 </p>
