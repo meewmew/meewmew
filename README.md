@@ -1,16 +1,28 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/header4.png" alt="Welcome to my little corner" width="100%">
+</p>
 
-<!--
-**meewmew/meewmew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="assets/titulo.svg" alt="code, cats & coffee" width="900">
+</p>
 
-Here are some ideas to get you started:
+<img src="assets/sobre-mim.svg" alt="Sobre mim: Aprendendo, criando e evoluindo um commit por vez. Tecnologias: Java, Angular, TypeScript e Quarkus." width="1000">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="assets/projetos.svg" alt="Projetos em destaque" width="600">
+<p>
+<p align="center">
+<a href="LINK_DO_PROJETO_01"><img src="assets/cartao-projeto-01.svg" alt="Projeto 01" width="48%"></a>
+&nbsp;
+<a href="LINK_DO_PROJETO_02"><img src="assets/cartao-projeto-02.svg" alt="Projeto 02" width="48%"></a>
+</p>
+
+<br>
+<img src="assets/contribuicoes.svg" alt="Contribuições" width="600">
+
+<p align="center">
+<img src="assets/calendario-contribuicoes.svg" alt="Calendário de contribuições" width="95%">
+</p>
+
+<br>
+
+<img src="assets/rodape.svg" alt="Obrigado por estar aqui. Um commit de cada vez." width="900">
