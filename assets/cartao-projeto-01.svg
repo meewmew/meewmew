@@ -7,7 +7,7 @@
 <rect x="618" y="28" width="310" height="208" rx="8" fill="url(#fade)"/>
 <path d="M40 42H53L59 48H74V68H40Z" fill="none" stroke="#d9a0b7" stroke-width="2" stroke-linejoin="round"/>
 <text x="98" y="64" fill="#d9a0b7" font-family="Arial, sans-serif" font-size="27">bot discord</text>
-<text x="40" y="114" fill="#c9c5d0" font-family="Arial, sans-serif" font-size="20"><tspan x="40">Bot para o Discord com personalidade e resposta em audio</tspan><tspan x="40" dy="29">e o que você está explorando nele.</tspan></text>
+<text x="40" y="114" fill="#c9c5d0" font-family="Arial, sans-serif" font-size="20"><tspan x="40">Bot para o Discord com personalidade e resposta em audio</tspan><tspan x="40" dy="29">buscando interatividade e conhecimento.</tspan></text>
 <!-- Fundo das etiquetas -->
 <g fill="#282228" stroke="#48414b">
   <rect x="40" y="185" width="94" height="34" rx="7"/>
